@@ -8,7 +8,8 @@ IT-1000 _**Professor Culmer**_
 
 Hi my name is Eric Landeros and I am a Information Technology major.  
 I live in Fulton, Missouri.  
-I was in the military and now seeking a job in the IT field.
+I was in the military and now seeking a job in the IT field.  
+My favorite website is [Warhammer 40k](https://warhammer40000.com/)
 
 ## Things I like
 * Sports 
