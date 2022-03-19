@@ -1,6 +1,14 @@
-# Hello-World
-Hello World Repository
-My name is _**Eric Landeros**_
+# Midterm Project
+Midterm Project Repository
+IT-1000 _**Professor Culmer**_
+
+|**Portfolio**|**About Me**|
+|------|-----------|
+|Eric Landeros|03/18|
+
+Hi my name is Eric Landeros and I am a Information Technology major.  
+I live in Fulton, Missouri.  
+I was in the military and now seeking a job in the IT field.
 
 ## Things I like
 * Sports 
